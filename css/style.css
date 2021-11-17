@@ -8,6 +8,7 @@
   line-height: 1em;
 }
 
+/*-- Main Structural Styling --*/
 body {
   background: #f7f7f7;
   color: #333333
@@ -18,3 +19,5 @@ section, header{
   max-width: 700px;
   margin: auto;
 }
+
+/*-- Styling Typography --*/
