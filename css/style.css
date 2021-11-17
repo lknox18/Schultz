@@ -22,5 +22,9 @@ section, header{
 
 /*-- Styling Typography --*/
 h1{
-  color: #F2D5B6;
+  font-size: 5rem;
+  margin-bottom: 2rem;
+  margin-top: 1.5em;
+  font-family: Times New Roman;
+  color: #004225;
 }
