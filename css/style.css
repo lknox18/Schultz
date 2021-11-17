@@ -36,3 +36,7 @@ header h2{
   margin-top: 0;
   color: #d0a06b;
 }
+
+header p{
+  font-size:1.3rem;
+}
