@@ -1,0 +1,9 @@
+/*-- CSS Reset --*/
+*{
+  padding: 0;
+  margin: 0;
+  font-size: 100%;
+  font-family: Baskerville, serif;
+  font-weight: bold, italic;
+  line-height: 1em;
+}
