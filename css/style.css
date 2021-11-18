@@ -40,3 +40,8 @@ header h2{
 header p{
   font-size:1.3rem;
 }
+
+h2{
+  font-size: 2rem;
+  margin: 2em 0em 0.5em 0em;
+}
