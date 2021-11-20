@@ -45,3 +45,29 @@ h2{
   font-size: 2rem;
   margin: 2em 0em 0.5em 0em;
 }
+
+h3{
+  font-size: 1.5rem;
+  color: #648764;
+  margin: auto;
+  margin-top: 1rem;
+}
+
+h3 p {
+  text-align: left;
+  font-size: 0.75rem;
+  margin: 4em 0 3em 0;
+  font-style: italic;
+}
+
+p, blockquote {
+  margin-bottom: 1.5rem;
+  line-height: 1.4;
+}
+
+blockquote {
+  font-size: 1.413rem;
+  font-style: italic;
+  hanging-punctuation: first;
+  text-indent: -0.60rem;
+}
