@@ -14,7 +14,7 @@ body {
   color: #333333
 }
 
-section, header{
+section, header, footer{
   width: 80%;
   max-width: 700px;
   margin: auto;
