@@ -14,12 +14,15 @@ body {
   color: #333333
 }
 
-section, header, footer{
+section, header{
   width: 80%;
   max-width: 700px;
   margin: auto;
 }
 
+footer{
+  max-width: 700px;
+}
 /*-- Styling Typography --*/
 h1{
   font-size: 4.2rem;
