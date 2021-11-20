@@ -24,6 +24,7 @@ footer{
   width: 80%;
   max-width: 1000px;
   margin: auto;
+  text-align: center;
 }
 /*-- Styling Typography --*/
 h1{
