@@ -77,3 +77,14 @@ blockquote {
   hanging-punctuation: first;
   text-indent: -0.60rem;
 }
+
+/*-- Styling Links --*/
+a{
+  color:#506c50;
+  text-decoration:none
+}
+
+a:hover{
+  color: #405640;
+  border-bottom: 1px dotted;
+}
