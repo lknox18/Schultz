@@ -126,3 +126,9 @@ nav a{
 li{
   color: #f7f7f7;
 }
+
+hr{
+  margin: 2rem;
+  color: #333333;
+  width: 80%;
+}
