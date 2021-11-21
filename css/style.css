@@ -88,7 +88,7 @@ a{
 }
 
 a:hover{
-  color: #333333;
+  color: #C49879;
   border-bottom: 1px dotted;
   transition: all 0.5s ease-in-out;
 }
