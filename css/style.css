@@ -80,12 +80,12 @@ blockquote {
 
 /*-- Styling Links --*/
 a{
-  color:#506c50;
+  color:#BB4F00;
   text-decoration:none
 }
 
 a:hover{
-  color: #648764;
+  color: #BB4F00;
   border-bottom: 1px dotted;
 }
 
