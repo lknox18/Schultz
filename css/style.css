@@ -77,6 +77,7 @@ p, blockquote {
 blockquote {
   font-size: 1.3rem;
   font-style: italic;
+  font-family: Classic Garmond;
   hanging-punctuation: first;
   text-indent: -0.60rem;
   color: #BB4F00;
@@ -110,7 +111,8 @@ nav{
 nav ul{
   text-align: center;
   text-transform: uppercase;
-  letter-spacing: 1px
+  letter-spacing: 1px;
+  font-family: Classic Garmond;
 }
 
 nav ul li{
