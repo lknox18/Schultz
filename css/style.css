@@ -120,7 +120,7 @@ nav a {
   color: #BB4F00;
 }
 
-nav a{
+nav a:hoover{
   border-bottom: none;
   color: #f7f7f7;
   transition: all 0.5s ease-in-out;
