@@ -82,13 +82,13 @@ blockquote {
 
 /*-- Styling Links --*/
 a{
-  color:#C49879;
+  color:#BB4F00;
   text-decoration:none;
   font-weight: bold;
 }
 
 a:hover{
-  color: #BB4F00;
+  color: #C49879;
   border-bottom: 1px dotted;
   transition: all 0.5s ease-in-out;
 }
