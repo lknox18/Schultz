@@ -44,7 +44,6 @@ header h2{
 
 header p{
   font-size:1.09rem;
-  font=font-family: Helvetica;
 }
 
 h2{
@@ -65,7 +64,6 @@ h3 p {
   font-size: 0.75rem;
   margin: 4em 0 3em 0;
   font-style: italic;
-  font-family: Helvetica;
 }
 
 p, blockquote {
