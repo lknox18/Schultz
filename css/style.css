@@ -133,3 +133,7 @@ hr{
 }
 
 /*-- Image --*/
+image{
+  image: #71353497;
+  position: fixed;
+}
