@@ -12,7 +12,7 @@
 body {
   background: #f7f7f7;
   color: #333333
-  image: 12468.jpg; 
+  image: 12468.jpg;
 }
 
 section, header{
@@ -82,7 +82,7 @@ blockquote {
 
 /*-- Styling Links --*/
 a{
-  color:#BB4F00;
+  color:#963f00;
   text-decoration:none
 }
 
