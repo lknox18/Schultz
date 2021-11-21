@@ -117,12 +117,12 @@ nav ul li{
 }
 
 nav a {
-  color: #BB4F00;
+  color: #f7f7f7;
 }
 
 nav a:hoover{
   border-bottom: none;
-  color: #f7f7f7;
+  color: #BB4F00;
   transition: all 0.5s ease-in-out;
 }
 
