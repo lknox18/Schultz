@@ -82,8 +82,9 @@ blockquote {
 
 /*-- Styling Links --*/
 a{
-  color:#963f00;
-  text-decoration:none
+  color:#333333;
+  text-decoration:none;
+  font-weight: bold;
 }
 
 a:hover{
