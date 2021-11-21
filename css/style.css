@@ -3,7 +3,7 @@
   padding: 0;
   margin: 0;
   font-size: 100%;
-  font-family: Times New Roman, serif;
+  font-family: Helvetica, serif;
   font-weight: bold, italic;
   line-height: 1em;
 }
@@ -32,7 +32,7 @@ h1{
   font-size: 4.2rem;
   margin-bottom: 2rem;
   margin-top: 1.5em;
-  font-family: Times New Roman;
+  font-family: Classic Garmond;
   color: #BB4F00;
 }
 
@@ -41,6 +41,7 @@ header h2{
   margin-bottom: 1rem;
   margin-top: 0;
   color: #C49879;
+  font-family: Classic Garmond;
 }
 
 header p{
@@ -58,6 +59,7 @@ h3{
   margin: auto;
   margin-top: 2.5rem;
   margin-bottom: 0.5rem;
+  font-family: Classic Garmond;
 }
 
 h3 p {
