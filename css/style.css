@@ -143,6 +143,7 @@ img{
 .dark{background: #BB4F00;
   margin: auto;
   padding: 1em 0;
+  border-radius: 20px;
 }
 .top {
   text-align: center;
@@ -152,4 +153,8 @@ footer{
   width: 80%;
   margin: auto;
   text-align: center;
+}
+
+footer p {
+  color: #f7f7f7;
 }
