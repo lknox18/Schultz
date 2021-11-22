@@ -135,9 +135,6 @@ hr{
 }
 
 img{
-  width: 80%;
-  height: auto;
-  margin: 2em 0em 1em 3em;
   min-height: 50%;
   min-width: 50%;
   max-width: 75%;
