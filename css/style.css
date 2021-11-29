@@ -149,12 +149,12 @@ img{
   text-align: center;
 }
 
-footer{
+footer {
   width: 80%;
-  margin: auto;
-  text-align: center;
+  margin: auto 0;
 }
 
 footer p {
   color: #f7f7f7;
+  text-align: center;
 }
