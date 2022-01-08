@@ -3,8 +3,6 @@
   padding: 0;
   margin: 0;
   font-size: 100%;
-  font-family: Classic Garmond, serif;
-  font-weight: bold, italic;
   line-height: 1em;
 }
 
@@ -20,49 +18,58 @@ section, header{
   margin: auto;
 }
 
-
 /*-- Styling Typography --*/
 h1{
   font-size: 4.2rem;
   margin-bottom: 2rem;
   margin-top: 1.5em;
   color: #BB4F00;
+  font-family: classic garmond; serif;
+  font-style: bold, italic;
 }
 
-header h2{
+h2{
   font-size: 2.5rem;
   margin-bottom: 1rem;
   margin-top: 0;
   color: #C49879;
+  font-family: classic garmond; serif;
+  font-style: bold, italic;
 }
 
 header p{
   font-size:1.09rem;
+  font-family: source-sans-pro, sans-serif;
+  font-style: normal;
 }
 
-h2{
-  font-size: 2rem;
-  margin: 2em 0em 0.5em 0em;
-}
 
 h3{
   font-size: 1.5rem;
   color: #C49879;
   margin: auto;
   margin-top: 2.5rem;
-  margin-bottom: 0.5rem;
+  font-family: classic garmond; serif;
+  font-style: bold, italic;
 }
 
 h3 p {
   text-align: left;
   font-size: 0.75rem;
   margin: 4em 0 3em 0;
-  font-style: italic;
+  font-family: source-sans-pro, sans-serif;
+  font-style: normal;
 }
 
 p, blockquote {
   margin-bottom: 1.5rem;
   line-height: 1.4;
+}
+
+p{
+  font-family: source-sans-pro, sans-serif;
+  font-style: normal;
+  color: #333333;
 }
 
 blockquote {
@@ -71,6 +78,7 @@ blockquote {
   hanging-punctuation: first;
   text-indent: -0.60rem;
   color: #BB4F00;
+  font-family: classic garmond; serif;
 }
 
 /*-- Styling Links --*/
@@ -149,6 +157,7 @@ img{
 .top {
   text-align: center;
 }
+
 
 footer {
   width: 80%;
