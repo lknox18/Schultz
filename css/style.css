@@ -26,7 +26,8 @@ h1{
   color: #BB4F00;
   font-family: classic garmond; serif;
   font-style: bold, italic;
-  text-align: left;
+  text-shadow: 2px 2px black;
+  text-align: center;
 }
 
 h2{
@@ -36,7 +37,8 @@ h2{
   color: #C49879;
   font-family: classic garmond; serif;
   font-style: bold, italic;
-  text-align: left;
+  text-shadow: 2px 2px black;
+  text-align: center;
 }
 
 header p{
