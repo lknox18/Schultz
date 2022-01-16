@@ -26,6 +26,7 @@ h1{
   color: #BB4F00;
   font-family: classic garmond; serif;
   font-style: bold, italic;
+  text-align: left;
 }
 
 h2{
@@ -35,6 +36,7 @@ h2{
   color: #C49879;
   font-family: classic garmond; serif;
   font-style: bold, italic;
+  text-align: left;
 }
 
 header p{
@@ -173,8 +175,8 @@ img{
   width: 100%;
   background: url(../images/title.png);
   background-size: cover;
-  height: 200px;
-  margin-bottom: 2em;
+  height: 400px;
+  margin-bottom: 1em;
 }
 
 footer {
