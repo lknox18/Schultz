@@ -49,6 +49,7 @@ h3{
   color: #C49879;
   margin: auto;
   margin-top: 2.5rem;
+  margin-bottom: 0.5em;
   font-family: classic garmond; serif;
   font-style: bold, italic;
 }
@@ -79,6 +80,15 @@ blockquote {
   text-indent: -0.60rem;
   color: #BB4F00;
   font-family: classic garmond; serif;
+}
+h4{
+  font-size: 1.5rem;
+  color: #C49879;
+  margin: auto;
+  margin-top: 2.5rem;
+  margin-bottom: 0.5em;
+  font-family: classic garmond; serif;
+  font-style: bold, italic;
 }
 
 /*-- Styling Links --*/
@@ -148,7 +158,8 @@ img{
   border-radius: 10px;
 }
 
-.dark{background: #BB4F00;
+.dark{
+  background: #BB4F00;
   margin: auto;
   padding: 1em 0;
   border-radius: 20px;
@@ -158,13 +169,28 @@ img{
   text-align: center;
 }
 
+.title{
+  width: 100%;
+  background: url(../imgs/title.png);
+  background-size: cover;
+  height: 400px;
+  margin-bottom: 2em;
+}
 
 footer {
-  width: 80%;
+  width: 100%;
   margin: auto 0;
 }
 
 footer p {
   color: #f7f7f7;
   text-align: center;
+  font-size: 0.90rem;
+  font-weight: normal;
+}
+
+.connections{
+  color: #333333;
+  text-align: center;
+  font-weight: normal;
 }
